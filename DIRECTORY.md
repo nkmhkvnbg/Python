@@ -41,11 +41,13 @@
   * [Binary Or Operator](bit_manipulation/binary_or_operator.py)
   * [Binary Shifts](bit_manipulation/binary_shifts.py)
   * [Binary Twos Complement](bit_manipulation/binary_twos_complement.py)
+  * 
   * [Binary Xor Operator](bit_manipulation/binary_xor_operator.py)
   * [Count 1S Brian Kernighan Method](bit_manipulation/count_1s_brian_kernighan_method.py)
   * [Count Number Of One Bits](bit_manipulation/count_number_of_one_bits.py)
   * [Gray Code Sequence](bit_manipulation/gray_code_sequence.py)
   * [Highest Set Bit](bit_manipulation/highest_set_bit.py)
+  * 
   * [Index Of Rightmost Set Bit](bit_manipulation/index_of_rightmost_set_bit.py)
   * [Is Even](bit_manipulation/is_even.py)
   * [Is Power Of Two](bit_manipulation/is_power_of_two.py)
